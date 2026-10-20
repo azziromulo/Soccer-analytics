@@ -5,6 +5,7 @@ It is built to look and behave like a Power BI report, with report pages, a data
 The project combines historical league analysis, a statistical lab, a match simulator, a 2024 player explorer and a card game, and it documents the equivalent Power BI model and DAX measures so the same analysis can be rebuilt in Power BI.How to run
 
 No build step and no server are needed.
+<img width="1783" height="787" alt="image" src="https://github.com/user-attachments/assets/90bd3384-1dd9-4174-83ca-68714017da7f" />
 
 Download Brasileirão Analytics.html (you may rename it to index.html).
 Open it in any modern browser (Chrome, Edge, Firefox, Safari).
