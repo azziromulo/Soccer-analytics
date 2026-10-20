@@ -25,6 +25,11 @@ Variable format: 24 clubs / 46 games (2003–2004), 22 clubs / 42 games (2005), 
 Court-adjusted points: rows where points ≠ 3×wins + draws are flagged and measured (e.g. São Caetano 2004).
 Relegation rule: 2 clubs in 2003, 4 in every other season.
 2024: two clubs appear with 37 games in the source data.
+
+<img width="1879" height="894" alt="image" src="https://github.com/user-attachments/assets/2411c47e-d9b2-452d-a90e-29215188881e" />
+
+<img width="1779" height="685" alt="image" src="https://github.com/user-attachments/assets/f4d9b5fc-e079-45d2-809c-ae695bd3e147" />
+
 What was built
 1. Report view (7 pages)
 
