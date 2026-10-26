@@ -85,7 +85,7 @@ Accessibility: ARIA roles and labels, keyboard-focusable controls, live regions,
 No data leaves the browser; uploaded crests stay in local storage.
 Repository structure
 .
-├── Brasileirão Analytics.html   # the full application (rename to index.html for GitHub Pages)
+├── Brasileirão Analytics.html or  Brasileirão Analytics_EN.html # the full application (rename to index.html for GitHub Pages)
 └── README.md
 Disclaimer
 
